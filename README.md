@@ -6,6 +6,8 @@ A curated list of awesome Base resources.
 
 Base is a secure, low-cost, builder-friendly Ethereum L2 built to bring the next billion users onchain.
 
+![Banner](assets/banner.webp)
+
 
 ## Resources 📚
 
@@ -48,26 +50,32 @@ Base is a secure, low-cost, builder-friendly Ethereum L2 built to bring the next
 ## Quick Start Tutorials 👩‍💻
 
 **OnchainKit**
-- [Use the Coinbase Smart Wallet and EOAs with OnchainKit](https://docs.base.org/tutorials/smart-wallet-and-eoa-with-onchainkit)
-- [Create a Basename Profile Component](https://docs.base.org/tutorials/create-basename-profile-component)
-- [Farcaster Frames: Building an NFT airdrop frame](https://docs.base.org/tutorials/farcaster-frames-nft-minting)
-- [Build an eCommerce App using Coinbase Commerce and OnchainKit](https://docs.base.org/tutorials/coinbase-commerce-onchainkit-checkout)
-- [Build a Smart Wallet Funding App with OnchainKit](https://docs.base.org/tutorials/build-smart-wallet-funding-app)
+- [Smart Wallet and EOAs](https://docs.base.org/tutorials/smart-wallet-and-eoa-with-onchainkit) - Use the Coinbase Smart Wallet and EOAs with OnchainKit
+- [Basename Component](https://docs.base.org/tutorials/create-basename-profile-component) - Create a Basename Profile Component
+- [Farcaster Frames](https://docs.base.org/tutorials/farcaster-frames-nft-minting) - Building an NFT airdrop frame
+- [eCommerce App](https://docs.base.org/tutorials/coinbase-commerce-onchainkit-checkout) - Build an eCommerce App using Coinbase Commerce and OnchainKit
+- [Smart Wallet Funding App](https://docs.base.org/tutorials/build-smart-wallet-funding-app) - Build a Smart Wallet Funding App with OnchainKit
 
 **NFT**
-- [Simple Onchain NFTs](https://docs.base.org/tutorials/simple-onchain-nfts)
-- [Build a Dynamic NFTs](https://docs.base.org/tutorials/dynamic-nfts)
-- [How to Mint on Zora with an App](https://docs.base.org/tutorials/minting-nfts-with-zora)
+- [Simple Onchain NFTs](https://docs.base.org/tutorials/simple-onchain-nfts) - Make a simple onchain NFT
+- [Build a Dynamic NFTs](https://docs.base.org/tutorials/dynamic-nfts) - Build a Dynamic NFT on Base with Irys
+- [Mint on Zora](https://docs.base.org/tutorials/minting-nfts-with-zora) - How to Mint on Zora with an App
 
 **Smart contracts** 
-- [Testing a smart contract using Foundry](https://docs.base.org/tutorials/intro-to-foundry-testing)
-- [Deploy a smart contract using Foundry](https://docs.base.org/tutorials/deploy-with-foundry)
-- [Deploy a smart contract using Remix](https://docs.base.org/tutorials/deploy-with-remix)
-- [Verify a smart contract using Basescan API](https://docs.base.org/tutorials/verify-smart-contract-using-basescan)
+- [Testing a smart contract](https://docs.base.org/tutorials/intro-to-foundry-testing) - Using Foundry
+- [Deploy a smart contract](https://docs.base.org/tutorials/deploy-with-foundry) - Using Foundry
+- [Deploy a smart contract](https://docs.base.org/tutorials/deploy-with-remix) - Using Remix
+- [Verify a smart contract](https://docs.base.org/tutorials/verify-smart-contract-using-basescan) - Using Basescan API
+
+**Paymaster** 
+
+- [Privy x Base Paymaster](https://docs.base.org/tutorials/account-abstraction-with-privy-and-base-paymaster) - Account Abstraction on Base using Privy and the Base Paymaster
+- [Base Paymaster x Wagmi Project](https://docs.base.org/tutorials/implement-base-paymaster-wagmi) - How to Implement Base Paymaster into a Wagmi Project
+- [ERC-20 x Base Paymaster](https://docs.base.org/tutorials/enable-erc20-gas-payments) - Enable ERC-20 gas payments with Base Paymaster
 
 **Interoperability**
-- [Cross-chain with LayerZero](https://docs.base.org/tutorials/cross-chain-with-layerzero)
-- [Cross-chain with Chainlink CCIP](https://docs.base.org/tutorials/cross-chain-with-ccip)
+- [Cross-chain with LayerZero](https://docs.base.org/tutorials/cross-chain-with-layerzero) - Sending messages from Base to other chains using LayerZero V2
+- [Cross-chain with Chainlink CCIP](https://docs.base.org/tutorials/cross-chain-with-ccip) - Sending messages from Base to other chains using Chainlink CCIP
 
 
 ## Tools 🛠️
