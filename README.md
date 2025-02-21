@@ -13,6 +13,7 @@ Base is a secure, low-cost, builder-friendly Ethereum L2 built to bring the next
 
 - [Base](https://www.base.org/) - Website
 - [Base Ecosystem](https://www.base.org/ecosystem) - Explore apps
+- [Get started on Base](https://www.base.org/builders) - Start building
 - [Base Docs](https://docs.base.org) - Official docs
 - [OnchainKit](https://onchainkit.xyz/) - Build Onchain Apps
 - [Base Smart Wallet](https://www.smartwallet.dev/why) - Official Smart Wallet Docs
